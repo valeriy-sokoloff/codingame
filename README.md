@@ -10,7 +10,6 @@ For example, with the letters  etaenhs, some possible words are: ethane, hates, 
 
 
 **LETTER SCORING:**
-
 In Scrabble©, each letter is weighted with a score depending on how difficult it is to place that letter in a word. You will see below a table showing the points corresponding to each letter:
  
 ![letters_weight](http://imageshack.us/a/img194/1852/vi2f.png)
