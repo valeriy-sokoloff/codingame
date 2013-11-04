@@ -13,14 +13,15 @@ For example, with the letters  etaenhs, some possible words are: ethane, hates, 
 LETTER SCORING:
 In Scrabble©, each letter is weighted with a score depending on how difficult it is to place that letter in a word. You will see below a table showing the points corresponding to each letter:
  
-Letters 	                    Points
+ 
+`Letters 	                    Points
 e, a, i, o, n, r, t, l, s, u  1
 d, g 	                        2
 b, c, m, p 	                  3
 f, h, v, w, y 	              4
 k 	                          5
 j, x 	                        8
-q, z 	                        10
+q, z 	                        10`
 
 The word banjo earns 3 + 1 + 1 + 8 + 1 = 14 points.
 
@@ -42,7 +43,7 @@ CONSTRAINTS:
 0 < N < 100000
 Words in the dictionary have a maximum length of 30 characters.
  
-
+`
 Input         Output
 5             which
 because
@@ -50,4 +51,4 @@ first
 these
 could
 which
-hicquwh
+hicquwh`
